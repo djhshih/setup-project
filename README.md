@@ -22,7 +22,7 @@ Use [black][black] to style your code according to the [PEP 8][pep8] style guide
 
 ### Rust
 
-Use [rustfmt][rustfm] to style your code.
+Use [rustfmt][rustfmt] to style your code.
 
 [rustfmt]: https://github.com/rust-lang/rustfmt
 
